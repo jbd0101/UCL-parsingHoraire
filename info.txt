@@ -1,0 +1,8 @@
+http://horaire.uclouvain.be/direct/index.jsp?displayConfName=webEtudiant&showTree=false&showOptions=false&login=etudiant&password=student&projectId=2&code=EDPH13BA&weeks=2
+
+
+
+
+
+.gridWhite (largeur)
+.labelLegend (chaque label)

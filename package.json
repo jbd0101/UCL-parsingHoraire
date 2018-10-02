@@ -1,0 +1,17 @@
+{
+  "name": "uclouvain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "node-horseman": "^3.3.0",
+    "x-ray": "^2.3.3",
+    "x-ray-phantom": "^1.0.1"
+  }
+}
